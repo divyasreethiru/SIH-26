@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "297306373868",
+    "firebase_url": "https://pgfinal-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "pgfinal",
+    "storage_bucket": "pgfinal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297306373868:android:ac0015d96b800ec9b2efc9",
+        "android_client_info": {
+          "package_name": "com.example.finalpg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRWz3Ozb3aAezDb1-pDk2J5OlMqKmV-ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297306373868:android:c1fdc19b667086e8b2efc9",
+        "android_client_info": {
+          "package_name": "com.example.pggfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRWz3Ozb3aAezDb1-pDk2J5OlMqKmV-ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297306373868:android:a3c94752134fbf71b2efc9",
+        "android_client_info": {
+          "package_name": "com.final.pg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRWz3Ozb3aAezDb1-pDk2J5OlMqKmV-ys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
